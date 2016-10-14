@@ -1,0 +1,48 @@
+body {
+
+  font-size: 16px;
+
+}
+
+/*.navbar-static-top {
+	padding:10px;
+	margin-bottom: 0px;
+}*/
+.nav{
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.jumbotron{
+	margin-bottom: 0px;
+	color: white;
+	font-size: 100%;
+	//background-color: #91B3D8;
+
+}
+.container-fluid{
+	padding: 0px;
+	margin: 0px;
+}
+
+.navbar-brand{
+	font-size: 200%;
+	margin-top:10px; 
+}
+.title{
+	color:white;
+	text-align: center;
+}
+#Layer1{
+	margin-top: 40px;
+	min-height: 740px;
+	background: url(./pics/17.JPG);// no-repeat center bottom;
+}
+#Layer2{
+	//background-color: #91B3D8;
+		min-height: 780px;
+}
+#Layer3{
+	//background-color: #ff6569;
+		min-height: 780px;
+}

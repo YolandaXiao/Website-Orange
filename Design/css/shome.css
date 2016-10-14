@@ -1,0 +1,54 @@
+body {
+  font-size: 16px;
+
+}
+
+/*.navbar-static-top {
+	padding:10px;
+	margin-bottom: 0px;
+}*/
+.nav{
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+.jumbotron{
+	//margin-top: 40px;
+	//margin-bottom: 0px;
+	color: white;
+	background-color: #91B3D8;
+	font-size: 100%;
+}
+.container-fluid{
+	padding: 0px;
+	margin: 0px;
+}
+
+.navbar-brand{
+	font-size: 200%;
+	margin-top:10px; 
+}
+
+
+.radio-inline{
+	margin-left: 20px;
+}
+.row{
+	padding-top: 40px;
+}
+.school{
+	padding: 5px 20px 5px 20px;
+	margin-left: 20px;
+
+}
+.school > [class*=" icon-"]{
+	background-image: url("../img/glyphicons-halflings.png");
+}
+
+.checkbox{
+	vertical-align: center;
+}
+.title{
+	color:white;
+	text-align: center;
+}
